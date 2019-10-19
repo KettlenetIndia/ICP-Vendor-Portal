@@ -1,0 +1,4 @@
+target 'ICP Vendor' do
+pod 'Firebase/Analytics'
+end
+
